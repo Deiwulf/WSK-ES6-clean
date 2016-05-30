@@ -16,5 +16,5 @@ This is a modification of [Google's Web Starter Kit](https://developers.google.c
 - Download or clone this repo.
 - Using CLI navigate to the root (where **package.json** is).
 - Run `npm i --g gulp && npm i`
-- Run `gulp serve' and do your thing
+- Run `gulp serve` and do your thing
 - Run `gulp` or `gulp hq` to wrap up for distribution
