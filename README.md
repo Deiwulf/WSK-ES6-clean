@@ -2,13 +2,13 @@
 
 This is a modification of [Google's Web Starter Kit](https://developers.google.com/web/tools/starter-kit/) which offers a highly productive and professional development environment/workflow. 
 
-### Modifications Made
-- ES6 enabled project-wide by default
-- "Basic" with linked resources set as the default index
-- Removed material design, swapped the main CSS with HTML5 boilerplate and refactored to .SCSS
+### Mods
+- ES6 with [babel](https://babeljs.io/) enabled project-wide by default
+- **basic.html** linked with resources and set as the default index
+- Removed material design, swapped the main CSS with that of [HTML5 boilerplate](https://html5boilerplate.com/) and refactored to .SCSS
 - Added alternative command to build without image compression: `gulp hq`
 - "Fixed" the babel-register warning by including the module
-- Not a bit else.
+- Not a bit more
 
 ## Quickstart
 
