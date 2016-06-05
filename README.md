@@ -1,6 +1,6 @@
 ## Overview
 
-This is a modification of [Google's Web Starter Kit](https://developers.google.com/web/tools/starter-kit/) which offers a highly productive and professional development environment/workflow. 
+This is a modification of [Google's Web Starter Kit](https://developers.google.com/web/tools/starter-kit/) which is aimed at clean and out of the box development environment/workflow using bleeding edge tech.
 
 ### Mods
 - ES6 with [babel](https://babeljs.io/) enabled project-wide by default
